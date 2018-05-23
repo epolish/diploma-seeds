@@ -1,5 +1,5 @@
-statement_value,parent_statement_value,parent_relationship_value
-Животное,'',''
-Пресмыкающиеся,Животное,Умеет ползать
-Змея,Пресмыкающиеся,Имеет ядовитый укус
-Рыба,Животное,Умеет плавать воде
+statement_value,parent_statement_value,parent_relationship_value,parent_relationship_support_level_value
+Животное,'','',0
+Пресмыкающиеся,Животное,Умеет ползать,5
+Змея,Пресмыкающиеся,Имеет ядовитый укус,9
+Рыба,Животное,Умеет плавать воде,3
